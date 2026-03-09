@@ -1,11 +1,4 @@
 /* ══════════════════════════════════════════
-   GOOGLE FONTS
-   (aktif saat ada internet, fallback ke
-    system fonts saat offline)
-══════════════════════════════════════════ */
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap');
-
-/* ══════════════════════════════════════════
    RESET & BASE
 ══════════════════════════════════════════ */
 *, *::before, *::after {
